@@ -1,3 +1,5 @@
 konjkav
 Abi
 khakestari
+GRAY
+WHITE
