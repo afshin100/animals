@@ -3,3 +3,5 @@ Abi
 khakestari
 GRAY
 WHITE
+RED
+PURPLE
